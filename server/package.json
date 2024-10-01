@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "sv",
+  "main": "server.js",
+  "scripts": {
+    "test": "sv",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sv"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.8.0"
+  }
+}

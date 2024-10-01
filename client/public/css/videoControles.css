@@ -1,0 +1,20 @@
+.video-controls {
+    background-color: #1a1a1a;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="text"] {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.btn-submit {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}

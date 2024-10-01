@@ -1,0 +1,10 @@
+.main-container {
+    display: flex;
+    height: 100vh;
+}
+
+.video-section {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}

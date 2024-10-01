@@ -1,0 +1,15 @@
+.sidebar {
+    width: 100px;
+    height: 100vh;
+    background-color: #1a1a1a;
+    color: white;
+    padding: 20px;
+}
+
+.leave-button {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}

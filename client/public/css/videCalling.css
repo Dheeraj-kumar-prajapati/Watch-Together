@@ -1,0 +1,21 @@
+#videoBox {
+    height: 150px;
+    width: 250px;
+    margin-left: -20px;
+    border-radius: 10px;
+}
+
+#controls {
+    position: absolute;
+    bottom: 20px;
+    left: 2px;
+}
+
+.btn {
+    margin-left: 15px;
+}
+
+#remote_video{
+    display: flex;
+
+}
